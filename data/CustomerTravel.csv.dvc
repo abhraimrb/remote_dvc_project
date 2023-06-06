@@ -1,0 +1,4 @@
+outs:
+- md5: 6faf4fe8ecaa9a758b59df47fe7ca63a
+  size: 29644
+  path: CustomerTravel.csv
